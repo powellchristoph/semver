@@ -1,0 +1,5 @@
+semver is a Python library that will compare two semantic version strings.
+
+It allows the basic comparison of <, <=, >, >=, ==, !=. You can also compare
+a version against a requirement to see if it will meet the requirement including
+pessimistic (~>) versioning.
