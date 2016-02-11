@@ -80,3 +80,13 @@ Out[24]: False
 In [25]: Version('0.1.1').satisfies('~>2.1')
 Out[25]: False
 ```
+
+#### Run Tests
+```
+$ python test_semver.py
+.............
+----------------------------------------------------------------------
+Ran 13 tests in 0.001s
+
+OK
+```
